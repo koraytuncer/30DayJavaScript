@@ -1,86 +1,77 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+﻿![](https://javascript30.com/images/JS3-social-share.png)
 
-This is the main repository for all of the projects in the course.
+# JavaScript30
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
+Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
-| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
-| 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
-| 06  | [Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
-| 07  | [Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page)                       | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
-| 08  | [Form Wave](https://github.com/bradtraversy/50projects50days/tree/master/form-input-wave)                                         | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
-| 09  | [Sound Board](https://github.com/bradtraversy/50projects50days/tree/master/sound-board)                                     | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
-| 10  | [Dad Jokes](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes)                                         | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
-| 11  | [Event Keycodes](https://github.com/bradtraversy/50projects50days/tree/master/event-keycodes)                               | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
-| 12  | [Faq Collapse](https://github.com/bradtraversy/50projects50days/tree/master/faq-collapse)                                   | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
-| 13  | [Random Choice Picker](https://github.com/bradtraversy/50projects50days/tree/master/random-choice-picker)                   | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
-| 14  | [Animated Navigation](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation)                     | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
-| 15  | [Incrementing Counter](https://github.com/bradtraversy/50projects50days/tree/master/incrementing-counter)                   | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
-| 16  | [Drink Water](https://github.com/bradtraversy/50projects50days/tree/master/drink-water)                                     | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
-| 17  | [Movie App](https://github.com/bradtraversy/50projects50days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
-| 18  | [Background Slider](https://github.com/bradtraversy/50projects50days/tree/master/background-slider)                         | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
-| 19  | [Theme Clock](https://github.com/bradtraversy/50projects50days/tree/master/theme-clock)                                     | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
-| 20  | [Button Ripple Effect](https://github.com/bradtraversy/50projects50days/tree/master/button-ripple-effect)                   | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
-| 21  | [Drag N Drop](https://github.com/bradtraversy/50projects50days/tree/master/drag-n-drop)                                     | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
-| 22  | [Drawing App](https://github.com/bradtraversy/50projects50days/tree/master/drawing-app)                                     | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
-| 23  | [Kinetic Loader](https://github.com/bradtraversy/50projects50days/tree/master/kinetic-loader)                               | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
-| 24  | [Content Placeholder](https://github.com/bradtraversy/50projects50days/tree/master/content-placeholder)                     | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
-| 25  | [Sticky Navbar](https://github.com/bradtraversy/50projects50days/tree/master/sticky-navigation)                                 | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
-| 26  | [Double Vertical Slider](https://github.com/bradtraversy/50projects50days/tree/master/double-vertical-slider)               | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
-| 27  | [Toast Notification](https://github.com/bradtraversy/50projects50days/tree/master/toast-notification)                       | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
-| 28  | [Github Profiles](https://github.com/bradtraversy/50projects50days/tree/master/github-profiles)                             | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
-| 29  | [Double Click Heart](https://github.com/bradtraversy/50projects50days/tree/master/double-click-heart)                       | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
-| 30  | [Auto Text Effect](https://github.com/bradtraversy/50projects50days/tree/master/auto-text-effect)                           | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
-| 31  | [Password Generator](https://github.com/bradtraversy/50projects50days/tree/master/password-generator)                       | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
-| 32  | [Good Cheap Fast](https://github.com/bradtraversy/50projects50days/tree/master/good-cheap-fast)                             | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
-| 33  | [Notes App](https://github.com/bradtraversy/50projects50days/tree/master/notes-app)                                         | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
-| 34  | [Animated Countdown](https://github.com/bradtraversy/50projects50days/tree/master/animated-countdown)                       | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
-| 35  | [Image Carousel](https://github.com/bradtraversy/50projects50days/tree/master/image-carousel)                               | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
-| 36  | [Hoverboard](https://github.com/bradtraversy/50projects50days/tree/master/hoverboard)                                       | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
-| 37  | [Pokedex](https://github.com/bradtraversy/50projects50days/tree/master/pokedex)                                             | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
-| 38  | [Mobile Tab Navigation](https://github.com/bradtraversy/50projects50days/tree/master/mobile-tab-navigation)                 | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
-| 39  | [Password Strength Background](https://github.com/bradtraversy/50projects50days/tree/master/password-strength-background)   | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
-| 40  | [3d Background Boxes](https://github.com/bradtraversy/50projects50days/tree/master/3d-boxes-background)                     | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
-| 41  | [Verify Account Ui](https://github.com/bradtraversy/50projects50days/tree/master/verify-account-ui)                         | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
-| 42  | [Live User Filter](https://github.com/bradtraversy/50projects50days/tree/master/live-user-filter)                           | [Live Demo](https://50projects50days.com/projects/live-user-filter/)              |
-| 43  | [Feedback Ui Design](https://github.com/bradtraversy/50projects50days/tree/master/feedback-ui-design)                       | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
-| 44  | [Custom Range Slider](https://github.com/bradtraversy/50projects50days/tree/master/custom-range-slider)                     | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
-| 45  | [Netflix Mobile Navigation](https://github.com/bradtraversy/50projects50days/tree/master/netflix-mobile-navigation)         | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
-| 46  | [Quiz App](https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)                                           | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
-| 47  | [Testimonial Box Switcher](https://github.com/bradtraversy/50projects50days/tree/master/testimonial-box-switcher)           | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
-| 48  | [Random Image Feed](https://github.com/bradtraversy/50projects50days/tree/master/random-image-generator)                         | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
-| 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
-| 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
+Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-**NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
+## Community #JavaScript30 Content
 
-## License
+Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 
-The MIT License
+* [Arjun Khode’s blog](http://thesagittariusme.blogspot.com/search/label/JS30) about summaries for each day, including fixed glitches, bugs and extra features
+* [Nitish Dayal's Text Guides](https://github.com/nitishdayal/JavaScript30) are great for those who like reading over watching
+* [Meredith Underell's](http://meredithunderell.com/tag/javascript30/) Quick Lessons Learned
+* [Rowan Weismiller's](http://rowanweismiller.com/blog/javascript-30/) Recaps + Lessons Learned
+* [Thorsten Frommen](https://tfrommen.de/tag/javascript-30/) shares how he solved the exercises before viewing the answers
+* [Soyaine 写的中文指南](https://github.com/soyaine/JavaScript30)包含了过程记录和难点解释
+* [Ayo Isaiah's](https://freshman.tech/archive/#javascript30) Recaps and Lessons Learned
+* [Adriana Rios](https://stpcollabr8nlstn.github.io/JavaScript30/) shares her alternative solutions
+* [Michael Einsohn](http://30daysofjs.michaeleinsohn.com) publishes each challenge after watching the video once
+* [Mike Ekkel](https://medium.com/@mike_ekkel/javascript-30-a-30-day-vanilla-js-challenge-6a733fc9f62c#.9frjtaje9)
+* [Yusef Habib](https://github.com/yhabib/JavaScript30) lessons and tricks learned, and a [gh-page](https://yhabib.github.io/JavaScript30/) to see working all the mini-projects.
+* [Amelie Yeh](https://github.com/amelieyeh/JS30) 30 lessons notes with things I've learned, and those important recaps. and directly view my demos [here](https://amelieyeh.github.io/JS30/) 🇹🇼😄
+* [Winar](https://github.com/winar-jin/JavaScript30-Challenge)的JavaScript30天挑战，记录练习过程，重难点和其他的解决方案。🎨
+* [Rayhatron](https://rayhatron.github.io/blog/) - walkthroughs, recaps and lessons learned.
+* [Andrei Dobra](https://github.com/andreidbr/JS30) Full repo with lessons learned and a [gh-page](https://andreidbr.github.io/JS30/) with all the exercises.
+* [从零到壹全栈部落](https://github.com/liyuechun/JavaScript30-liyuechun),春哥发起的从零到壹全栈部落，旨在带领大家一起学习，一起输出，文档化，代码化，中文视频化，全栈部落口号：输出是最好的学习方式。
+* [Usmaan Ali's](https://github.com/usyyy/javascript/blob/master/JavaScript30/analysis.md) summary of the technical skills learned from each project. He's also posting them as separate blog posts [here](https://medium.com/@usyyy)
+* [Axel](https://github.com/afuh/js30)'s lessons learned and a [showcase](https://afuh.github.io/js30/) with the projects.
+* [Chris](https://github.com/dwatow/JavaScript30) 中文實戰，目標描述、過程紀錄。
+* [Muhammad D. Ramadhan's](https://miayam.github.io) blog. He shamlesly mixed his personal life with 30 day JavaScript challenge so as to increase his learning retention. He also summarised the challenge on [one single page](https://miayam.github.io/js30). Do not read his blog!
+* [Lee Keitel's Blog](https://blog.keitel.xyz/categories/javascript30/) includes summaries of each lesson, what I learned from each one, and my thoughts about the topic taught and using them in the future.
+* [Dustin Hsiao](https://github.com/dustinhsiao21/Javascript30-dustin) 包含了各篇介紹、 效果Demo、各篇詳解及記錄過程，附上部分延伸閱讀及[gh-page](https://dustinhsiao21.github.io/Javascript30-dustin/)。
+* [GuaHsu](https://github.com/guahsu/JavaScript30) - 紀錄各篇練習過程與心得，並嘗試擴充部分練習，也做了一個包含全部練習的[介紹站](http://guahsu.io/JavaScript30/)🇹🇼
+* [Daniela](https://github.com/misslild)'s completed challenges on [GitHub Pages](https://misslild.github.io/WesBos-30day-Coding-challenge/) and [Codepen](https://codepen.io/collection/DapZeP/) :raised_hands: :muscle: :+1:
+* [Dmitrii Pashutskii's](https://github.com/guar47) code of all challenges on [GitHub with Pages](https://github.com/guar47/javascript30Summary) and review [blog posts](https://blog.dpashutskii.com/tag/javascript30/)
+* [Abid Hasan's](https://github.com/sabidhasan/javascript-30) completion of all challenges. This was awesome!! Learned so much! :+1:
+* [Yusong Notes](https://sky172839465.github.io/course/js30) Records Yusong JS 30 days note and demo :star2:
+* [Ding's Implementation](https://github.com/Ding-Fan/javascript30) code and online demo
+* [Herminio Torres](https://github.com/herminiotorres/JavaScript30) lessons and tricks learned, and a [gh-page](https://herminiotorres.github.io/JavaScript30/) to see working all the mini-projects.
+* [Dmytro Borysovskyi](https://github.com/dimabory) says many thanks to for the course to Wes 🤝 It was incredible challenge 👌 The full repository with code available [here](https://github.com/dimabory/dimabory.github.io/tree/gh-pages/src/components/JavaScript30Days) and demos can be reached by the link to [gh-pages](https://dimabory.github.io/#/js30days) 👍👍👍 
+* [Kizito](https://github.com/akhilome/)'s follow along [repo](https://github.com/akhilome/js30) with [completed challenges](https://akhilome.github.io/js30) and [notes](https://akhilome.github.io/js30/notes).
+* [VannTile](https://github.com/vanntile)'s [repository](https://github.com/vanntile/JavaScript30) and [GitHub Pages showcase](https://vanntile.github.io/JavaScript30/). Thank you for a great ⌨️ experience.
+* [Alex Kim](https://github.com/Alex-K1m/js30-challenge) completed all the challenges. You can check them out at [github pages](https://alex-k1m.github.io/js30-challenge/).
+* [Mikhail Thomas](https://github.com/seckela) created [JS30++](https://github.com/seckela/js30plusplus) to add another level of challenge ontop of this already great course.
+* [Ramon Morcillo](https://github.com/reymon359/JavaScript30) finished this awesome challenge!. You can see the showcase of his implementations on [this link](https://reymon359.github.io/JavaScript30/).
+* [Santiago Escobar](https://github.com/sescobar99)'s [repository](https://github.com/sescobar99/javascript30-challenge) and [GitHub Pages showcase](https://sescobar99.github.io/javascript30-challenge/).
+* [Harry Xie](https://github.com/a90100/JavaScript30) 紀錄 30 天的練習筆記在 [此連結](https://github.com/a90100/JavaScript30).
+* [ Van Ribeiro's ](https://vanribeiro-30daysofjavascript.netlify.app/) about demos and recaps. On [GitHub Repo](https://github.com/vanribeiro/30days-Of-JavaScript) there's a summary about what was learned and researched.
+* [Mugilan](https://github.com/Mugilan-Codes) is currently doing this challenge. Check out his [Repo](https://github.com/Mugilan-Codes/javascript-30) and the [Live Demo](https://mugilan-codes.github.io/javascript-30/).
+* [Eshan Vohra](https://github.com/eshanvohra) is currently doing this challenge. Check out my repo [here](https://github.com/eshanvohra/JavaScript30).
+* [RegusAl](https://github.com/RegusAl) is currently doing this challenge. Check out my repo [here](https://github.com/RegusAl/JavaScript30).
+* [Ayush Gupta's](https://javascript30.ayushgupta.tech/) implementation of JavaScript30 challenge with some add-ons & updated design.
+* [filipkowal](https://github.com/filipkowal/JS30-05-Flex-Panels-Deactivate) Fix to flex panels (5th  day) so the panels deactivate when clicked on another one.
+* [Mo. Saif's](https://github.com/MoSaif00)note on lessons learned and a [gh-pages showcase](https://mosaif00.github.io/30-Days-JavaScript-Challenge/) for the projects.
+* [Stiaannel's](https://stiaannel.co.za/my-projects/javascript30) implementation of the Javascript30 challenge, with small design changes and a couple of extra features.
 
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
+## Alternative Implementations
+Here are some links of people who have done the tutorials, but in a different language or framework:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+* [Thomas Mattacchione](https://github.com/tkjone/clojurescript-30) JavaScript 30 written in ClojureScript
+* [Dave Follett's](https://github.com/davefollett) blog series, [A New Vue on #JavaScript30](https://davefollett.io/categories/a-new-vue-on-javascript30/), where he explores re-implementing #JavaScript30 projects using [Vue](https://vuejs.org).
+* [Akinjide Bankole](https://github.com/akinjide/JS30days) used Node.js with [Jade](http://jadelang.net) to solve the exercises
+* [Adrien Poly](https://github.com/adrienpoly/javascript30-stimulus) a modest attempt to convert Drum Kit, Video Player, Local Tapas, TypeHead to [Stimulus JS](https://stimulusjs.org/) framework in a Rails App.
+* [Bogdan Lazar](https://github.com/tricinel/TypeScript30) all the JavaScript 30 written in [TypeScript](https://www.typescriptlang.org/)
+* [Will Wager](https://github.com/wwags33/JavaScript30) another [TypeScript](https://www.typescriptlang.org/) implementation!
+* [marcoSven](https://github.com/marcoSven) solution suggestion for [10 - Hold Shift and Check Checkboxes](https://github.com/marcoSven/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-FINISHED.html)
+* [ALMaclaine](https://github.com/almaclaine) Javascript 30 written in [Dart 2.0](https://github.com/ALMaclaine/Dart30).
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+## A note on Pull Requests
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
 
+The starter files + solutions will be updated if/when the videos are updated.
+
+Thanks!
